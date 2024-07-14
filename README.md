@@ -14,7 +14,7 @@ View Proposals: Participants can view details of existing proposals including th
 
 ![image](https://github.com/user-attachments/assets/8ca6e83b-b4a6-438a-8c0b-043c0d7ef236)
 
-
+<br>
   DEPLOY first, 
   TAKE NOTE THAT THE ACCOUNT WHO DEPLOYED THE FILE WILL BE THE OWNER
 
@@ -23,6 +23,7 @@ View Proposals: Participants can view details of existing proposals including th
   proposal.
 
 ![image](https://github.com/user-attachments/assets/45471060-b725-48e4-9fbb-531d046638c2)
+<br>
   You can click the other buttons, to see other details such who is the owner and other basic functions to see what is the details 
   of the proposal.
 
