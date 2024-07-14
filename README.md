@@ -10,7 +10,8 @@ Vote: Participants can vote for proposed actions. Each participant can only vote
 Execute Proposal: Once a proposal has received enough votes, the contract owner can execute it.
 View Proposals: Participants can view details of existing proposals including their description, vote count, and execution status.
 
-Usage
+# Usage
+
 ![image](https://github.com/user-attachments/assets/8ca6e83b-b4a6-438a-8c0b-043c0d7ef236)
 
 
