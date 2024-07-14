@@ -12,6 +12,8 @@ View Proposals: Participants can view details of existing proposals including th
 
 Usage
 ![image](https://github.com/user-attachments/assets/8ca6e83b-b4a6-438a-8c0b-043c0d7ef236)
+
+
 DEPLOY first, 
 TAKE NOTE THAT THE ACCOUNT WHO DEPLOYED THE FILE WILL BE THE OWNER
 
