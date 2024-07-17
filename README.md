@@ -1,35 +1,41 @@
-# newSmartContract
-For my metacrafters submission
+# Smart Contract Management - ETH + AVAX
+This is for my METACRAFTERS submission.
 
-# Summary of the Code
-it is a voting system smart contract, basically a voting mechanism where proposals can be created, voted, and be executed only by the owner. 
+## Description
+Smart contract with Frontend using hardhat and react, and accessing it in the network using localhost:3000
 
-# Features
-Create Proposal: Any participant can propose a new action or idea by submitting a description.
-Vote: Participants can vote for proposed actions. Each participant can only vote once per proposal.
-Execute Proposal: Once a proposal has received enough votes, the contract owner can execute it.
-View Proposals: Participants can view details of existing proposals including their description, vote count, and execution status.
+### Installing and Executing 
 
-# Usage
+I used Chris' template, clone it using this link
 
-![image](https://github.com/user-attachments/assets/8ca6e83b-b4a6-438a-8c0b-043c0d7ef236)
+https://github.com/MetacrafterChris/SCM-Starter.git
 
-<br>
-  DEPLOY first, 
-  TAKE NOTE THAT THE ACCOUNT WHO DEPLOYED THE FILE WILL BE THE OWNER
+After cloning the github, you will want to do the following to get the code running on your computer.
 
-![image](https://github.com/user-attachments/assets/ecb6abda-ea4b-4d24-89e3-52191878af48)
-  Create and execute the proposal as the owner, take note that anyone can create a proposal, but only the owner can execute the 
-  proposal.
+Inside the project directory, in the terminal type: npm i
+Open two additional terminals in your VS code
+In the second terminal type: ```npx hardhat node```
+In the third terminal, type: ```npx hardhat run --network localhost scripts/deploy.js```
+Back in the first terminal, type ```npm run dev``` to launch the front-end.
 
-![image](https://github.com/user-attachments/assets/45471060-b725-48e4-9fbb-531d046638c2)
-<br>
-  You can click the other buttons, to see other details such who is the owner and other basic functions to see what is the details 
-  of the proposal.
+In the metamask,
+Add a network manually and input the following details
+
+![image](https://github.com/user-attachments/assets/831a2afe-a53b-4e31-9c1f-2898daee70a2)
 
 
-# CONTACTS
-tomgab21@gmail.com
+* Note that i already used the URL so an error is shown.
+
+
+
+
+## Authors
+* For the Template
+Metacrafter Chris
+
+@metacraftersio
+
+* For demo only
 Thomas Manuel
-
+tomb21@gmail.com
 
