@@ -4,6 +4,7 @@ This is for my METACRAFTERS submission.
 ## Description
 Smart contract with Frontend using hardhat and react, and accessing it in the network using localhost:3000
 
+
 ### Installing and Executing 
 
 I used Chris' template, clone it using this link
@@ -25,6 +26,24 @@ Add a network manually and input the following details
 
 
 * Note that i already used the URL so an error is shown.
+
+## Account
+After registering to the metamask site, you need to the follwing
+
+* click add account
+
+  
+![image](https://github.com/user-attachments/assets/b601bb21-3ac0-41a7-833b-045e0b589fd3)
+
+
+* click import account
+
+  
+![image](https://github.com/user-attachments/assets/9d4bfc02-d083-47ba-bf85-606f2d49a719)
+
+* use the account 0 secret key found when 
+```npx hardhat node``` in the second terminal
+
 
 
 
